@@ -1,2 +1,3 @@
 # TRIPLE-ATTACK
 本作业主要介绍了如何使用C++标准库中的next_permutation函数来生成一个序列的下一个字典序排列。通过给定一个序列，该函数可以有效地计算出其下一个排列，并广泛应用于全排列问题以及组合问题中。本作业详细讲解了该函数的使用方法，并通过示例代码展示了实际应用场景。
+nglish Summary: This assignment primarily discusses how to use the next_permutation function in the C++ standard library to generate the next lexicographical permutation of a sequence. By providing a given sequence, this function can efficiently compute its next permutation and is widely used in problems involving permutations and combinations. The assignment elaborates on the usage of this function and demonstrates practical applications through example code.
